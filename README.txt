@@ -31,6 +31,8 @@
     - [**Subcommittee 4**](#subcommittee-4)
     - [**Subcommittee 5**](#subcommittee-5)
     - [**Subcommittee 6**](#subcommittee-6)
+- [**Document**](#document)
+- [**Post Script**](#post-script)
 - [**From Phong with love 💙**](#from-phong-with-love-)
 
 # [**Introduction**](#introduction)
@@ -130,6 +132,7 @@ Giai đoạn này có lẽ điều thử thách chúng ta nhất chính là sự
 Lúc này có thể xảy ra 2 lựa chọn: 
 
 **Lựa chọn 1**: bạn làm đề tài đó từ đầu như Phong
+
 ✅ Ưu điểm:
 + Nỗ lực thực sự nên kinh nghiệm & kiến thức là của bạn 
 + Là bước chuẩn bị, mài giũa tinh thần để bạn có thể tiến tới làm Đồ án tốt nghiệp với áp lực và khối lượng công việc lớn hơn 💪
@@ -140,6 +143,7 @@ Lúc này có thể xảy ra 2 lựa chọn:
 + Thời gian làm đồ án có thể ít hơn do phải đi làm fulltime tại đơn vị thực tập( nếu bạn phải đi làm full time)
 
 **Lựa chọn 2**: bạn lấy một đồ án môn học đã từng làm có chức năng tương đương hoặc đồ án của người khác
+
 ✅ Ưu điểm:
 + Nhàn hơn, đỡ vất vả hơn, có thời gian nghỉ ngơi nhiều hơn,...
 + Khối lượng công việc không nhiều 
@@ -274,6 +278,13 @@ Nói vầy không phải để khủng bố tinh thần bạn đọc nhưng mà 
  thậm chí là đã làm qua rồi. Những gì sinh viên tụi mình làm trong đồ án tốt nghiệp có khi lại chính là những gì thầy cô đó 
 đã làm.
 
+Mà xem qua mình thấy năm nào cũng có mấy đề tài như bán hàng, thương mại điện tử. 
+Nói thật với các bạn, đề tài này phổ biến nhưng thuộc diện khó. Vì thực tế làm thương mại điện tử có rất nhiều chức năng 
+& có rất nhiều thứ phải làm, phải quản lý.
+Các thầy năm nào cũng chấm đề tài dạng này nên chỉ cần họ nhìn qua một chút thôi là sẽ phát hiện ra cái sai của bạn ngay🥱🥱
+
+Hãy chọn những đề tài khác đi để tránh đi vào vết xe đổ này nha😅😅.
+
 ## [**If you fall, you will be in a dilemma**](#if-you-falls-you-will-be-in-a-dilemma)
 
 Như đã đề cập trong bảng so sánh, các bạn sẽ làm từ đầu tháng 10 tới tầm noel thì là phản biện với thầy cô.
@@ -324,6 +335,8 @@ Như mình đã nói ở trên là nếu lúc này bạn bỏ cuộc thì đáng
 
 Vậy nên nếu xác định không muốn làm thì nên bỏ đồ án ngay từ đầu cho đỡ mệt. Vậy thui 😘
 
+> Nếu bạn đang thắc mắc học thay thế thì tính vào thành tích học tập tính lũy 4 năm học của mình thì Đồ án tốt nghiệp cũng vậy nha.
+
 ## [**Defend your graduation project with the highest council**](#defend-your-graduation-project-with-the-highest-council)
 
 ### [**Before the very day**](#before-the-day)
@@ -335,8 +348,9 @@ Không là bọn anh đang đi lên.
 Ồ bạn qua được giai đoạn đấu tranh tâm lý phía trên rùi hả???😙. Ghê ghê, Phong tặng bạn một lời khen chân tình. Thế thì mình cùng 
 nắm tay nhau **bảo vệ đồ án tốt nghiệp trước hội đồng nhà trường** đê 🏁.
 
-Để mình chốt một câu quan trọng nhé: **RA TỚI HỘI ĐỒNG THÌ 99% LÀ BẠN ĐÃ ĐỖ TỐT NGHIỆP RỒI**. Nhưng vẫn có ngoại lệ, mình cũng 
-từng nghe có 2 anh trai nào ra tới hội đồng nhưng bị thầy Hào phản pháo & thầy không bị thuyết phục nên rất tiếc cho 2 anh trai 
+Để mình chốt một câu quan trọng nhé: **RA TỚI HỘI ĐỒNG THÌ 99% LÀ BẠN ĐÃ ĐỖ TỐT NGHIỆP RỒI**.
+
+Nhưng vẫn có ngoại lệ, mình cũng từng nghe có 2 anh trai nào ra tới hội đồng nhưng bị thầy Hào phản pháo & thầy không bị thuyết phục nên rất tiếc cho 2 anh trai 
 là vẫn bị tạch như thường 😔😕
 
 Tuy nhiên, trước khi ra tới hội đồng bạn vẫn phải qua 2 vòng sàng lọc đã. Giai đoạn này sẽ trước ngày bảo vệ đồ án tầm 2 tuần lễ:
@@ -381,7 +395,7 @@ Sau ngày thi xong thì bạn có thể xả hơi hoàn toàn rồi. Chuẩn b�
 
 ## [**The council**](#the-council)
 
-Phần này mình nói tới hội đồng chấm thi. Hội đồng chấm thi sẽ có 5 tiểu ban và các bạn sẽ được phân 
+Phần này mình nói tới hội đồng chấm thi. Hội đồng chấm thi sẽ có 6 tiểu ban và các bạn sẽ được phân 
 về các tiểu ban khác nhau như ví dụ dưới đây: 
 
 <p align="center">
@@ -402,8 +416,10 @@ Tiểu ban này thì với Phong thì là kèo thơm. Thầy Hào & thầy Trụ
 gần như đi chấm cho vui thôi. Chốc chốc lại chạy ra chạy vào. Thi 3 tiếng thì ngót 2 tiếng ông thầy ra ngoài làm việc riêng.
 
 Còn nếu không thì thầy Hào là trùm cuối - nỗi khiếp sợ của bao thế hệ sinh viên. Thầy Hào thì khó ở khoản phản biện. Lúc đó, có một 
-bạn sinh viên bị thầy Hào cho rớt tới tận 3 lần. Lần đầu, thì bạn rớt sau đó thì thầy Thư alo kêu chấm lại.
-Lần hai thi thầy Hào vẫn đánh rớt. Các cụ có câu "quá tam ba bận", lần 3 thì bạn được ra hội đồng riêng để chấm và lần này thì 
+bạn sinh viên bị thầy Hào cho rớt tới tận 3 lần. 
+
+Lần đầu, thì bạn rớt sau đó thì thầy Thư alo kêu chấm lại.
+Lần hai thi thầy Hào vẫn đánh rớt. Các cụ có câu `quá tam ba bận`, lần 3 thì bạn được ra hội đồng riêng để chấm và lần này thì 
 thầy Hào phải tặc lưỡi cho qua. Sau đó, bạn ra hội đồng như tụi mình nhưng thầy cũng chỉ miễn cưỡng cho bạn 7 điểm.
 
 Mình có thể nói tóm tắt là thầy Hào thì thầy ưa về mặt hình thức á các bạn. Nếu bạn demo sản phẩm tốt không bị lỗi,
@@ -415,7 +431,9 @@ Tiểu ban 2 gồm thầy Lưu Nguyễn Kì Thư, cô Nguyễn Thị Bích Nguy�
 
 Đây có lẽ là tiểu ban ác mộng và khó khăn nhất. Cả 3 thầy cô đều là những người khó tính nổi tiếng.
 
-Dĩ nhiên, ra tới hội đồng thì bạn không tạch đâu. Theo lời bạn bè mình kể thì tiểu ban này chấm thi cực kì kĩ. Thầy Thư, cô Nguyên sẽ cực chú trọng tới logic và cách các bạn thiết kế database.
+Dĩ nhiên, ra tới hội đồng thì bạn không tạch đâu. Theo lời bạn bè mình kể thì tiểu ban này chấm thi cực kì kĩ.
+ Thầy Thư, cô Nguyên sẽ cực chú trọng tới logic và cách các bạn thiết kế database. Kể cả bạn demo sản phẩm bị lỗi nhưng logic thiết 
+ kế & cách xử lý đúng thì bạn vẫn sẽ nhận được những lời khen có cánh là bình thường 🌠
 
 Nếu database bạn đúng thì đời bạn nở hoa, nếu bạn sai thì bạn vẫn méo sao cả. Vì thầy cô sẽ chỉ góp ý cho bạn thôi.
 Họ có thể góp ý gay gắt nhưng điểm số thì họ sẽ cho bạn cao, không thiệt thòi đâu nha😣 nhưng mà thi lâu vãi chưởng. Mỗi đứa 1-2 tiếng.
@@ -448,6 +466,7 @@ Tiểu ban này chuyên chấm sinh viên thuộc lớp Công nghệ đa phươn
 
 > Các bạn có thể nhận thấy, giáo viên phản biện của bạn là ai thì bạn cũng sẽ thuộc luôn tiểu ban
 chấm thi đó.
+
 
 # [**Document**](#document)
 
