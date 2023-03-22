@@ -16,6 +16,21 @@
   - [**End of August to Early September**](#end-of-august-to-early-september)
   - [**The rest of September**](#the-rest-of-september)
 - [**Graduation period**](#graduation-period)
+  - [**Select your graduation appoach**](#select-your-graduation-appoach)
+  - [**Compare between Graduation Project and Graduation Learning**](#compare-between-graduation-project-and-graduation-learning)
+  - [**Receive graduation project's topic**](#receive-graduation-projects-topic)
+  - [**If you fall, you will be in a dilemma**](#if-you-fall-you-will-be-in-a-dilemma)
+  - [**Defend your graduation project with the highest council**](#defend-your-graduation-project-with-the-highest-council)
+    - [**Before the very day**](#before-the-very-day)
+    - [**In the very day**](#in-the-very-day)
+    - [**After the very day**](#after-the-very-day)
+  - [**The council**](#the-council)
+    - [**Subcommittee 1**](#subcommittee-1)
+    - [**Subcommittee 2**](#subcommittee-2)
+    - [**Subcommittee 3**](#subcommittee-3)
+    - [**Subcommittee 4**](#subcommittee-4)
+    - [**Subcommittee 5**](#subcommittee-5)
+    - [**Subcommittee 6**](#subcommittee-6)
 - [**From Phong with love 💙**](#from-phong-with-love-)
 
 # [**Introduction**](#introduction)
@@ -174,6 +189,287 @@ Các bạn có thể đọc thêm về hình thực thi cử thêm tại [**đâ
 
 Giai đoạn này bạn có khoảng 2 tuần để xả hơi trước khi đi tiếp chặng cuối đề về đích. Vì vậy hãy nghỉ ngơi đi 🤍
 
+> Nhìn chung ở giai đoạn Thực tập thì chỉ cần có đồ án mới đủ các chức năng cơ bản là chắc chắn sẽ qua. Rất 
+> khó bị đánh rớt. Điểm thấp nhất là 5 và kết quả đồ án Thực tập cũng sẽ được tính vào thành tích học 
+> tập 4 năm của bạn
+
 # [**Graduation period**](#graduation-period)
+
+## [**Select your graduation appoach**](#select-your-graduation-appoach)
+
+Giai đoạn Đồ án thực tập hay Phong sẽ văn vở hơn & gọi nó là giai đoạn về đích. Ở giai đoạn về đích thì 
+có thể xảy ra 2 lựa chọn
+
+**Lựa chọn 1**: Bạn đủ điều kiện làm đồ án tốt nghiệp
+
+**Lựa chọn 2**: Bạn không đủ điều kiện làm đồ án & phải học môn thay thế.
+
+Tuy nhiên, có tồn tại nghịch lý là cho dù bạn đủ điểm để làm đồ án nhưng có thể vẫn sẽ không được làm 
+là do số lượng sinh viên hàng năm được làm đồ án tốt nghiệp là cố định. Ví dụ nha 😁😁, 
+khóa của Phong là 58 đứa ngành Công nghệ thông tin. Còn tổng cộng tất cả sinh viên thuộc ngành Kĩ thuật
+ là 88 đứa - tức đã cộng thêm lớp An toàn thông tin & Đa phương tiện.
+
+Có thể nhận thấy rằng số lượng sinh viên được làm đồ án tốt nghiệp là không nhiều. Giả sử như có 70 người đủ điều kiện làm đồ án tốt 
+nghiệp đi chăng nữa. Khi nhà trường lấy danh sách từ trên xuống thì khi đủ số lượng người - ví dụ là 60 người - thì 10 người còn lại
+vẫn sẽ không được làm đồ án tốt nghiệp.
+
+Nguyên nhân thì Phong cũng không rõ nhưng mình đoán có thể do số lượng thầy cô là ít hơn so với số lượng sinh viên đủ điều kiện làm 
+đồ án chẳng hạn. Ví dụ nha, thầy Hào mình lúc hướng dẫn Thực tập thì sẽ hướng dẫn là 29 sinh viên nhưng khi hướng dẫn Đồ án tốt nghiệp
+thì chỉ 7 người mà thôi 😎😎. Mình đoán là đồ án tốt nghiệp thì khó và các thầy cô muốn đảm bảo chất lượng cho các sinh viên chẳng hạn.
+
+Lúc này số phận của 10 người kia sẽ phải qua học môn thay thế tốt nghiệp.
+
+Tuy nhiên, bản thân Phong thì mình khuyến khích các bạn là nên chọn môn thay thế hơn là làm đồ án tốt nghiệp. Vì sao ư?.
+Tụi mình cũng nhau so sánh qua bảng dưới đây nhé:
+
+## [**Compare between Graduation Project and Graduation Learning**](#compare-between-graduation-project-and-graduation-learning)
+
+| Đồ án tốt nghiệp                                                                                                                  | Học môn thay thế                                                                                                                  |
+|-----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|
+| 😎 Ngầu (được làm đồ án nghe oai mà)                                                                                               | 😓 Bạn học vì đơn giản bạn chả có sự lựa chọn nào. Nói chung là học dở nên nhà trường tạo điều kiện để tống các bạn ra trường      |
+| 🥴 Mệt, mệt vãi chưởng! Khối lượng công việc nhiều & một mình bạn làm hết đồ án từ đầu tới cuối                                    | 💪 Khỏe, làm việc team-work. Nếu team ngon & đồng đều thì khỏe re                                                                  |
+| 🤮 Làm một mình từ đầu tháng 10 tới khi Noel. Có khi sát ngày thi vẫn sửa học máu mồm                                              | 👨‍🎓 Học như một môn học bình thường                                                                                                |
+| ❌ Thi vẫn có thể tạch nếu trúng thầy cô khó hoặc bài bạn sai logic trí mạng. Hoặc phản biện không lại thầy cô                     | ✔ Học xong thì thi mà thi thì auto là đỗ.                                                                                         |
+| 5️⃣ Thấp nhất là 5 điểm                                                                                                             | 7️⃣ Thấp nhất là 7 điểm                                                                                                             |
+| 🏃‍♂️ Bạn có thể phải cân nhắc tới việc xin thôi việc để có đủ thời gian làm đồ án(giống mình😭)                                      | 👨‍💻 Bạn vẫn có thể tiếp tục làm việc tại doanh nghiệp vì đã có đồng đội san sẻ công việc cùng mình.                                |
+| 😘 Bạn không phải lên trường đi học & điểm danh                                                                                    | 😫 Bạn phải lên trường học 3 buổi/tuần & điểm danh                                                                                 |
+| 💃 Bạn tốt nghiệp đại học và chờ bằng tốt nghiệp đầu tháng 5 của năm tiếp theo. Điểm >= 3.2 thì bằng Giỏi, điểm < 3.2 thì bằng Khá | 🕺 Bạn tốt nghiệp đại học và chờ bằng tốt nghiệp đầu tháng 5 của năm tiếp theo. Điểm >= 3.2 thì bằng Giỏi, điểm < 3.2 thì bằng Khá |
+
+Đọc bảng trên bạn có thể thấy mục đích cuối cùng của làm đồ án tốt nghiệp hay học thay thế cũng chỉ 
+dẫn tới một kết quả duy nhất là **tốt nghiệp Đại học**. Bằng cấp các bạn nhận được không có một sự khác biệt gì dù bạn tốt nghiệp theo cách nào.
+
+Do đó, mình khuyến khích các bạn nên lựa chọn **Học thay thế tốt nghiệp** thay vì làm đồ án vì quả thực là ưu nhược điểm của 2 hình thức quá rõ ràng. Với hình thức 
+học thay thể chỉ có một nhược điểm là bạn phải lên trường nhiều & điều này sẽ khó khăn nếu bạn không xin phép được từ phía công ty.
+
+Tuy nhiên, không phải lúc nào mọi thứ thì cũng như mơ nên là 
+
+<p align="center">
+    <img src="./photo/photo_02.png" />
+</p>
+<h3 align="center">
+
+***Nói chung là rất chán😊***
+</h3>
+
+Sau đó tới thì nhà trường sẽ thông báo như vầy.
+
+<p align="center">
+    <img src="./photo/photo_03.png" height="640" />
+</p>
+<h3 align="center">
+
+***Nhà trường thông báo bằng văn bản chính thức nè😌***
+</h3>
+
+Có thể ở năm của mình số lượng sinh viên học thay thế đông quá nên họ không cho chuyển nhưng sang 
+các bạn thì cứ thử nha.
+
+## [**Receive graduation project's topic**](#receive-graduation-projects-topic)
+
+Nói qua **về đề tài** thì do là đồ án tốt nghiệp nên các bạn sẽ **không còn được chọn như lúc làm đồ án Thực 
+tập** nữa đâu. Đề tài sẽ do nhà trường ra đề( nói vậy cho ngầu chứ đề tài của mình sẽ do giáo viên hướng 
+dẫn ra đề 🙂🙂) và lần này thì không thể sửa thêm xin thầy cô chỉnh sửa đề gì được đâu🙄🙄.
+
+Nói vầy không phải để khủng bố tinh thần bạn đọc nhưng mà khi thầy cô ra đề tài cho mình thì học cũng đã nghiên cứu hoặc
+ thậm chí là đã làm qua rồi. Những gì sinh viên tụi mình làm trong đồ án tốt nghiệp có khi lại chính là những gì thầy cô đó 
+đã làm.
+
+## [**If you fall, you will be in a dilemma**](#if-you-falls-you-will-be-in-a-dilemma)
+
+Như đã đề cập trong bảng so sánh, các bạn sẽ làm từ đầu tháng 10 tới tầm noel thì là phản biện với thầy cô.
+Trước khi các bạn ra đến hội đồng chấm thi, quá trình các bạn làm đồ án sẽ có sự kèm cặp của giáo viên hướng dẫn là rất nhiều.
+
+Nếu đến lúc này bạn `vấp ngã` thì đáng tiếc vô cùng 
+
+<p align="center">
+    <img src="./photo/photo_04.png" width="1280" />
+</p>
+<h3 align="center">
+
+**Thất bại là mẹ thành công nhưng thất bại sai thời điểm thì...toang🙉**
+</h3>
+
+Có nhiều lý do khiến những bạn sinh viên ở hình trên bị **CẤM** tham gia thi phản biện như là: 
+
+- Làm không nổi, đi làm mệt quá không có thời gian để làm đồ án
+
+- Không tìm được tiếng nói chung với giáo viên hướng dẫn, giáo viên hướng dẫn tào lao, không nhiệt tình. Bạn muốn tiếp cận theo 
+cách A nhưng giáo viên kêu làm theo cách B. Bạn hỏi làm như thế nào nhưng giáo viên bảo là tự đi mà tìm hiểu ??? (Really, nigga ?!)
+
+- Đề tài khó quá, làm mãi không ra. Sửa lỗi mãi không được, nản lòng
+
+- Chủ động xin thôi luôn, không làm đồ án nữa
+
+- AFK, bặt vô âm tín. Giáo viên không biết có bất kì thông tin gì từ bạn
+
+- Đi làm được 10-20 triệu rùi, cảm thấy cái bằng cũng như miếng lót chuột, tờ giấy lộn. Không quan trọng! ( Mình nghiêm túc nha, có trường hợp này thật)
+
+- .......... và ti tỉ những lý do củ chuối khác 🍌🍌🍌
+
+Như mình đã nói ở trên là nếu lúc này bạn bỏ cuộc thì đáng tiếc vô cùng vì một số lý do sau:
+
+- 🤑 Mất toi tiền học phí - học thay thế hay làm đồ án thì đều nộp tiền trước khi được làm đồ án
+
+- 🤔 Bạn lao tâm khổ tứ một thời gian với đồ án rồi, bỏ thì có thấy phí công sức hem?
+
+- 😭 Sang năm phải học thay thế, mất thêm một lần tiền nữa. Mà lúc này đi làm rồi, sợ quay lại học thì lại học khó vào
+
+- 🏫 Tâm lý lúc nào cũng trong tình trạng lo trả nợ môn, đi làm nhưng vẫn vướng chuyện trường lớp
+
+- 👻 Tốt nghiệp và lấy bằng muộn hơn bạn bè đồng lứa.
+
+- 👭 Làm gia đình thất vọng, các bậc sinh thành phiền lòng
+
+- ...................
+
+Vậy nên nếu xác định không muốn làm thì nên bỏ đồ án ngay từ đầu cho đỡ mệt. Vậy thui 😘
+
+## [**Defend your graduation project with the highest council**](#defend-your-graduation-project-with-the-highest-council)
+
+### [**Before the very day**](#before-the-day)
+
+Ấy khoan, động đất à 🌍?
+
+Không là bọn anh đang đi lên. 
+
+Ồ bạn qua được giai đoạn đấu tranh tâm lý phía trên rùi hả???😙. Ghê ghê, Phong tặng bạn một lời khen chân tình. Thế thì mình cùng 
+nắm tay nhau **bảo vệ đồ án tốt nghiệp trước hội đồng nhà trường** đê 🏁.
+
+Để mình chốt một câu quan trọng nhé: **RA TỚI HỘI ĐỒNG THÌ 99% LÀ BẠN ĐÃ ĐỖ TỐT NGHIỆP RỒI**. Nhưng vẫn có ngoại lệ, mình cũng 
+từng nghe có 2 anh trai nào ra tới hội đồng nhưng bị thầy Hào phản pháo & thầy không bị thuyết phục nên rất tiếc cho 2 anh trai 
+là vẫn bị tạch như thường 😔😕
+
+Tuy nhiên, trước khi ra tới hội đồng bạn vẫn phải qua 2 vòng sàng lọc đã. Giai đoạn này sẽ trước ngày bảo vệ đồ án tầm 2 tuần lễ:
+
+Đầu tiên, phản biện với giáo viên hướng dẫn thì tui cũng không biết nói gì hơn. Bạn qua là cái chắc ✔✔
+
+Tiếp theo, phản biện với giáo viên phản biện. Đi hay ở là ở thầy cô này. Nếu bạn bị rớt thì chính thầy cô này sẽ thông báo 
+cho bạn luôn. Khỏi phải ra đến hội đồng luôn. Nếu thầy cô không nói gì thì bạn đến được hội đồng rồi á 
+
+### [**In the very day**](#in-the-very-day)
+
+Nếu bạn ra tới hội đồng thì sắp tới ngày hái quả rồi á 🙋‍♂️. Thông thường, bạn ra tới hội đồng thì điểm đồ án của bạn đại đa số là cao.
+Thời của Phong thì hầu hết các bạn thấp nhất là 8 điểm. Cũng có trường hợp ngoại lệ và trùng hợp thay lại là thầy Hào, 
+bạn đó có logic quản lý sửa chữa ô tô không chặt chẽ, thầy Hào lại là trưởng tiểu ban 1. 
+Rất may cho bạn là vẫn được 5 điểm qua tốt nghiệp.
+
+Ví như những sinh viên do thầy Lưu Nguyễn Kì Thư hướng dẫn thường điểm sẽ rất cao. Từ 9 điểm tới 9.8 điểm là rất cao - với điều kiện 
+ra hội đồng chấm thi nhé 😛- điểm cao như vầy thì có 2 lý do: 
+
+- Các thầy cô là đồng nghiệp của nhau. Chấm rớt một sinh viên khi ra tới hội đồng thì có nghĩa là không nể giáo viên hướng dẫn 
+của sinh viên đó 
+
+- Đề tài do thầy Thư hướng dẫn thì thường là ổng đã làm qua rồi & tụi sinh viên mình thực chất là đang làm lại những gì mà chính 
+ổng làm hồi đó. Hội đồng chấm bài bạn thấp tức là họ đang đánh giá thấp chính ông thầy. Ai dại mà như vầy đúng hem😋
+
+À có một quy ước về điểm số như này nữa nè: trong một hội đồng sẽ có 3 giáo viên. Nếu 2 giáo viên chấm bạn 8 điểm thì giáo viên còn 
+lại không thể chấm bạn thấp hơn 2 điểm - tức thấp nhất phải là 6 điểm. Nếu giáo viên đó chấm bạn thấp hơn 6 điểm thì bạn tạch. 
+Nghe thì có vẻ là vô lý vì ( 8 + 8 + 5 ) / 3 = 7 điểm nhưng chúng ta có thể hình dung đây là một quy-tắc-bất-thành-văn.
+
+Khi ra đến hội đồng thì tiểu ban của bạn chắc chắn sẽ có giáo viên phản biện. Lúc này thì dễ thở rùi 🤗. Giáo viên phản biện cho bạn 
+tới vòng này thì họ gần như sẽ không làm khó bạn nữa đâu. Gần như là không nói gì cả vì nếu có thì họ đã hỏi bạn trong quá trình 
+phản biện trước đó rồi.
+
+Còn lại sẽ phụ thuộc vào 2 người còn lại trong tiểu ban. Nếu bạn hên như Phong và lại gặp lại giáo viên hướng dẫn trong tiểu ban 
+chấm thi thì phải nói là đỏ, hehe 🏮🏮🏮. Nhưng chung quy lại, các thầy cô hỏi cũng nhằm mang tính thủ tục vì các bạn đã trải 
+qua những vòng trước rồi nên các thầy cô có vặn gì đi chăng nữa thì các bạn vẫn sẽ tốt nghiệp thui.
+
+### [**After the very day**](#after-the-very-day)
+
+Sau ngày thi xong thì bạn có thể xả hơi hoàn toàn rồi. Chuẩn bị nốt quyển báo cáo đồ án bìa đỏ chữ vàng 
+để nộp nữa là xong ⛷
+
+## [**The council**](#the-council)
+
+Phần này mình nói tới hội đồng chấm thi. Hội đồng chấm thi sẽ có 5 tiểu ban và các bạn sẽ được phân 
+về các tiểu ban khác nhau như ví dụ dưới đây: 
+
+<p align="center">
+    <img src="./photo/photo_05.png" width="1280" />
+</p>
+<h3 align="center">
+
+**Danh sách tiểu ban chấm thi gồm 3 người👮‍♂️👮‍♂️👮‍♂️**
+</h3>
+
+### [**Subcommittee 1**](#subcommittee-1)
+
+Tiểu ban 1 gồm thầy Nguyễn Anh Hào, thầy Huỳnh Trung Trụ & thầy Tân Hạnh
+
+Đây có lẽ là tiểu ban dễ tính nhất và mình nằm trong tiểu ban này luôn. 
+
+Tiểu ban này thì với Phong thì là kèo thơm. Thầy Hào & thầy Trụ thì đã cho Phong qua ải rồi. Thầy Tân Hạnh thì dễ không tả được,
+gần như đi chấm cho vui thôi. Chốc chốc lại chạy ra chạy vào. Thi 3 tiếng thì ngót 2 tiếng ông thầy ra ngoài làm việc riêng.
+
+Còn nếu không thì thầy Hào là trùm cuối - nỗi khiếp sợ của bao thế hệ sinh viên. Thầy Hào thì khó ở khoản phản biện. Lúc đó, có một 
+bạn sinh viên bị thầy Hào cho rớt tới tận 3 lần. Lần đầu, thì bạn rớt sau đó thì thầy Thư alo kêu chấm lại.
+Lần hai thi thầy Hào vẫn đánh rớt. Các cụ có câu "quá tam ba bận", lần 3 thì bạn được ra hội đồng riêng để chấm và lần này thì 
+thầy Hào phải tặc lưỡi cho qua. Sau đó, bạn ra hội đồng như tụi mình nhưng thầy cũng chỉ miễn cưỡng cho bạn 7 điểm.
+
+Mình có thể nói tóm tắt là thầy Hào thì thầy ưa về mặt hình thức á các bạn. Nếu bạn demo sản phẩm tốt không bị lỗi,
+ hình thức đẹp mắt thì thầy Hào sẽ chấm dễ hơn. Nói chung là thầy Hào chú trọng hình thức hơn chất lượng & độ phức tạp của chức năng.
+
+### [**Subcommittee 2**](#subcommittee-2)
+
+Tiểu ban 2 gồm thầy Lưu Nguyễn Kì Thư, cô Nguyễn Thị Bích Nguyên & cô Nguyễn Thị Tuyết Hải
+
+Đây có lẽ là tiểu ban ác mộng và khó khăn nhất. Cả 3 thầy cô đều là những người khó tính nổi tiếng.
+
+Dĩ nhiên, ra tới hội đồng thì bạn không tạch đâu. Theo lời bạn bè mình kể thì tiểu ban này chấm thi cực kì kĩ. Thầy Thư, cô Nguyên sẽ cực chú trọng tới logic và cách các bạn thiết kế database.
+
+Nếu database bạn đúng thì đời bạn nở hoa, nếu bạn sai thì bạn vẫn méo sao cả. Vì thầy cô sẽ chỉ góp ý cho bạn thôi.
+Họ có thể góp ý gay gắt nhưng điểm số thì họ sẽ cho bạn cao, không thiệt thòi đâu nha😣 nhưng mà thi lâu vãi chưởng. Mỗi đứa 1-2 tiếng.
+
+### [**Subcommittee 3**](#subcommittee-3)
+
+Tiểu ban 3 gồm thầy Nguyễn Ngọc Duy, thầy Phan Thanh Hy & thầy Nguyễn Trung Hiếu.
+
+Tiểu ban này thì không còn gì để nói. Các thầy đều rất dễ tính và chấm rất nhanh 
+
+### [**Subcommittee 4**](#subcommittee-4)
+
+Tiểu ban 4 gồm thầy Nguyễn Hồng Sơn, thầy Nguyễn Hoành Thành & cô Đàm Minh Lịnh 
+
+Tiểu ban này chấm tụi học An toàn thông tin và mình không có thông tin gì nhiểu 
+
+### [**Subcommittee 5**](#subcommittee-5)
+
+Tiểu ban 5 gồm thầy Huỳnh Thanh Tâm, thầy Huỳnh Trọng Thưa & thầy Phan Nghĩa Hiệp 
+
+Tiểu ban này giống tiểu ban 1 của Phong. Các thầy chấm cũng rất dễ tính và thậm chí còn nhanh hơn cả 
+tiểu ban 1
+
+### [**Subcommittee 6**](#subcommittee-6)
+
+Tiểu ban 6 gồm thầy Lê Minh Hóa, cô Huỳnh Thị Tuyết Trinh & thầy Nguyễn Tất Mão.
+
+Tiểu ban này chuyên chấm sinh viên thuộc lớp Công nghệ đa phương tiện. Mình cũng chưa thấy ai học 
+đa phương tiện mà tạch cả nên đoán là các thầy cô dễ.
+
+> Các bạn có thể nhận thấy, giáo viên phản biện của bạn là ai thì bạn cũng sẽ thuộc luôn tiểu ban
+chấm thi đó.
+
+# [**Document**](#document)
+
+Trong thư mục document mình có để lại danh sách đề tài bao gồm cả lúc thực tập lẫn khi làm 
+đồ án tốt nghiệp. Các bạn nên tham khảo qua để chuẩn bị trước.
+
+Kì thực thì hàng năm chỉ xoay đi xoay lại mấy đề tài như website bán hàng, website quản lý là nhiều. 
+Biết trước thông tin giúp ích rất nhiều sau này. Hãy xem để chuẩn bị tốt nhất trước khi bắt đầu.
+
+# [**Post Script**](#post-script)
+
+Mình trân trọng các bạn đã đọc tới những dòng cuối cùng này. Các bạn có thể thấy là mình hơi dài dòng 
+một chút nhưng từng dòng lưu bút ở đây chứa toàn bộ tâm huyết của mình về một giai đoạn không thể quên 
+trong cuộc đời mỗi người. 
+
+Nếu các bạn thấy hữu ích, hãy tặng mình một ngôi sao ⭐ và chia sẻ tới những người khác nhé.
+
+Một lần nữa, cảm ơn bạn & xin chúc bạn thật nhiều sức khỏe, gặt hái được nhiều thành công trong
+ cuộc sống💙💚💛
+
+Trân trọng,
+Nguyễn Thành Phong
+22 March, 2023
 
 # [**From Phong with love 💙**](#from-phong-with-love)
