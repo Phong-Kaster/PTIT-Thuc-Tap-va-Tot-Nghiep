@@ -22,6 +22,8 @@
   - [**If you fall, you will be in a dilemma**](#if-you-fall-you-will-be-in-a-dilemma)
   - [**Defend your graduation project with the highest council**](#defend-your-graduation-project-with-the-highest-council)
     - [**Before the very day**](#before-the-very-day)
+    - [**For instance**](#for-instance)
+    - [**More example**](#more-example)
     - [**In the very day**](#in-the-very-day)
     - [**After the very day**](#after-the-very-day)
   - [**The council**](#the-council)
@@ -360,6 +362,101 @@ Tuy nhiên, trước khi ra tới hội đồng bạn vẫn phải qua 2 vòng s
 Tiếp theo, phản biện với giáo viên phản biện. Đi hay ở là ở thầy cô này. Nếu bạn bị rớt thì chính thầy cô này sẽ thông báo 
 cho bạn luôn. Khỏi phải ra đến hội đồng luôn. Nếu thầy cô không nói gì thì bạn đến được hội đồng rồi á 
 
+
+### [**For instance**](#)
+
+Để Phong kể các bạn nghe về 2 ngày thi của mình nha ⭐⭐⭐:
+
+**Đầu tiên là hôm thi với giáo viên hướng dẫn**, tức thầy Nguyễn Anh Hào ấy. Nói chung thì với thầy Hào ấy, để 
+chúng mình tới được buổi sơ khảo với thầy thì tức là trong suốt quá trình các bạn làm thì thầy Hào để ghi nhận 
+những nỗ lực và thái độ làm việc của các bạn rồi. Và chắc chắn là các bạn phải đạt yêu cầu thì thầy mới cho thi.
+
+Có một quy luật từ nhiều thế hệ đi trước đã có: Đó là hễ bạn thi được với giáo viên hướng dẫn của mình thì tức là
+quyển báo cáo của các bạn đã phải đặt yêu cầu & giáo viên hướng dẫn chấp nhận thì bạn mới được đi thi sơ khảo.
+
+Về phần mình, do trong quá trình làm thì hằng tuần mình đều báo cáo tiến độ một cách đề đặn và tự giác(vì thầy 
+Hào không hề yêu cầu họp online hay báo cáo hàng tuần nha) nên Phong cũng thấy là thầy đã có thiện cảm với mình hơn 
+rồi. 
+
+Có thể các bạn không biết nhưng khi hướng dẫn tốt nghiệp đợt của Phong thì thầy chỉ hướng dẫn có 7 người nhưng trong 
+quá trình làm đồ án thì 4 bạn đã bị loại vì thì 2 trong số đố Phong biết lý do là:
+
+- Làm được một đoạn thì có bug mà mãi không sửa được nên chủ động xin thôi😵
+
+- Làm đồ án như gì..... nên thầy Hào cho tạch  ☹
+
+.......
+
+Nói về hôm thi thì cũng không có gì đáng chú ý. Hôm thi là mình trước ngày thi 1 tuần, vào thì mình vẫn chạy 
+chương trình và diễn giải ý nghĩa của từng chức năng cho thầy nghe. Đại khái thầy sẽ kiểm tra một vòng toàn bộ 
+đồ án của các bạn, đi từ database tới giao diện, rồi sau đó chạy chương trình và kiểm tra các chức năng trọng tâm.
+
+Trọng tâm thì hầu như thầy( và có lẽ là các giáo viên khác cũng vậy) sẽ chỉ tập trung vào chức năng chính thôi ☺☺
+Ví dụ như Phong thì thầy sẽ coi chức năng đặt khám bệnh và kê đơn thuốc cho bệnh nhân chẳng hạn. Còn mấy chức năng 
+tào lao bí đao như thêm - xóa - sửa tài khoản, phòng ban linh tinh,...... thì thầy không coi đâu😂😂😂(lúc ra hội đồng cũng y như thế).
+Hoặc ví dụ kinh điển khác là nếu bạn làm đề tài bán hàng thì các thầy cô sẽ xem kĩ phần bán hàng, cho vào giỏ hàng & cập nhật số lượng tồn 
+
+> Note: Phong thấy đề tài thương mại điện tử là một đề tài kinh điển, năm nào làm đồ án thì cũng có đứa làm. Tuy nhiên, khuyên 
+> trân thành các bạn là không nên làm đề tài này bởi những lý do sau
+
+| Ưu điểm                                                                                                                                                                                                                      | Nhược điểm                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
+| 🤗 Có cơ hội đi qua tất cả các giai đoạn phát  triển một sản phẩm từ đầu tới cuối. Làm đủ các thành phần từ API tới Front-end đến cách  tích hợp API vào Website hoàn chỉnh ( cả Android nếu bạn  thích hard-core như mình 😎) | 🤪 Thương mại điện tử là một đề tài KHÓ, nhiều chức năng và phạm vi rất rộng.  Khi bán thì bạn có thể sẽ phải lo tới đoạn giao hàng chẳng hạn |
+| 📚 Đề tài kinh điển nên có nhiều tài liệu, đồ án để tham khảo. Nếu đã đi thực tập bạn có thể hỏi được kinh nghiệp từ người đi trước (giống mình 😙)                                                                            | 🌍 Đề tài xưa như trái đất, mấy ông thầy năm nào cũng chấm mòn cả đũng quần òy.  Nên họ rất nhạy trong việc phát hiện ra cái sai của bạn      |
+| 🤩 Đề tài tuy không phải mới nhưng bạn sẽ biết cách xây dựng một sàn thương mại điện tử  nói chung - một trong những ứng dụng phổ biến nhất ngày nay                                                                          | 🥱 Vì để tài đã cũ nên không có gì mới mẻ để khám phá                                                                                         |
+
+> Một số đề tài khác bạn có thể thử qua: ứng dụng đặt lịch hẹn khám bệnh (giống Phong), ứng dụng giao đồ ăn, viết một sàn 
+> giao dịch chứng khoán, ứng dụng sửa chữa ô tô,....
+
+Tiếp tục câu chuyện, chắc chắn thầy cô sẽ góp ý những chỗ mình cần phải sửa. Và hãy nhớ ghi chép lại cẩn thận nha.
+Những gì thầy cô góp ý cho bạn, nếu bạn có thể sửa chữa/ khắc phục được thì kết quả đồ án của bạn sẽ còn cao hơn nữa. Phong là ví dụ 
+kinh điển nhất cho trường hợp này nè😌.
+
+Hôm đó thầy Hào có góp ý cho mình phải thêm một 5 chức năng nho nhỏ. Trong vòng một tuần trước thi thì mình đã hoàn thành được 4 cái
+nên đồ án trở nên hoàn thiện ở mức rất là cao lun😘😘. Có thể nói là những góp ý của thầy cô rất là sát với thực tiễn nên hãy cố gắng
+sửa theo những gì mà thầy cô hướng dẫn yêu cầu nha.
+
+Tổng kết lại, giáo viên hướng dẫn khen mình quá trời quá đất nên mình ảo tưởng cảm thấy là mình ngon đây 😎😎😎. Cho tới khi...
+
+**Vấn đáp với giáo viên phản biện**, trái với những cảm giác nâng nâng khi thi với giáo viên hướng dẫn bên trên. Thầy Huỳnh Trung Trụ 
+đã tặng mình một gáo nước lạnh theo cả nghĩa đen lẫn nghĩa bóng. 
+
+Vào trình diễn chương trình được một đoạn thì thầy Trụ bắt đầu hỏi xoáy đáp xoay các kiểu. Và từ khoảng khắc này trở đi, trong suốt 1 
+tiếng sau đó, ông thầy liên tục ném gạch 🧱🧱 đủ để mình dựng nhà cmnl. Lúc đó mình khá là hoảng loạn vì ông thầy chê mình dữ quá. 
+
+Cảm giác lúc đó Phong lo lắng, tim muốn rớt ra ngoài luôn rồi ấy💞. Chả lẽ làm thấy mẹ ra mà bây giờ lại tạch thì.... Mình cũng đã 
+cố gắng giải thích là "thầy Hào hướng dẫn em như vầy" nhưng mà cơ bản là khi tư duy 2 người khác nhau thì dù bạn nói gì người ta cũng 
+sẽ không nghe.
+
+Cuối cùng, thầy Trụ vẫn góp ý cho mình sửa thêm một số cái lặt vặt & mình có hứa hẹn sẽ sửa theo tư duy của ổng( nhưng nghiêm túc mà 
+nói thì sửa thế éo nào cho kịp được vì còn chưa nổi 1 tuần là thi). Cảm giác lúc đó như ngồi trên đống lửa 🔥🔥🔥.
+
+Mình phải gọi ngay cho thầy Hào để trình bày vấn đề của thầy Trụ và dĩ nhiên là câu trả lời của thầy Hào đã làm mình ấm lòng hơn
+
+"***Em cứ làm theo những gì thầy hướng dẫn, không ai dám đánh rớt em đâu***" - thầy Hào nói
+
+Có lời khẳng định chắc nịch từ thầy, mình thấy an tâm lên nhiều lắm. Vậy là trong một tuần đó mình chỉ tập trung sửa 
+những gì mà 2 thầy góp ý thôi và sau đó thì đi thi thôi nào🥳
+
+### [**More example**](#)
+
+Mình có đứa bạn học cùng & cũng do thầy Hào hướng dẫn luôn. Đề tài của bạn thì phải nói là `khó và độc lạ Bình Dương` hơn của 
+mình rất nhiều. Bản thân thầy Hào hướng dẫn của chưa thực sự rõ ràng cho bạn mình luôn.
+
+Tới lúc vấn đáp với thầy Huỳnh Trọng Thưa thì thầy Thưa cũng có góp ý về mặt logic xử lý cốt lõi của ứng dụng cho bạn mình vì 
+thầy cảm thấy chưa bị thuyết phục bới cách làm do thầy Hào và bạn ấy xây dựng. Tuy nhiên, khi tới cuối buổi vấn đáp thì thầy Thưa có nói: 
+
+"***Em cứ coi như phần góp ý của thầy là tham khảo thôi nha. Còn lại thì em vẫn nên bám theo hướng dẫn của thầy Hào. Thầy chỉ 
+góp ý cho em vậy thôi***" - thầy Thưa trình bày.
+
+Nói chung, từ 2 ví dụ trên, các bạn có thể thấy là nếu làm đồ án tốt nghiệp thì nên bám theo và làm đúng những gì được yêu cầu 
+từ giáo viên hướng dẫn của mình nhé😋
+
+Những gì giáo viên phản biện góp ý hoặc yêu cầu mình phải sửa logic cốt lõi của ứng dụng thì hãy luôn nhớ nghe nhưng phải chọn lọc kĩ 
+lưỡng. Tốt nhất là bạn nên alo ngay với giáo viên hướng dẫn của mình để xin ý kiến là lựa chọn thông minh nhất 🧠↗
+
+Nói chung là giáo viên phản biện không kêu bạn rớt thì mình đi thi thui chứ sao nữa
+
 ### [**In the very day**](#in-the-very-day)
 
 Nếu bạn ra tới hội đồng thì sắp tới ngày hái quả rồi á 🙋‍♂️. Thông thường, bạn ra tới hội đồng thì điểm đồ án của bạn đại đa số là cao.
@@ -392,6 +489,14 @@ qua những vòng trước rồi nên các thầy cô có vặn gì đi chăng n
 
 Sau ngày thi xong thì bạn có thể xả hơi hoàn toàn rồi. Chuẩn bị nốt quyển báo cáo đồ án bìa đỏ chữ vàng 
 để nộp nữa là xong ⛷
+
+<p align="center">
+    <img src="./photo/photo_06.jpg" width="640" />
+</p>
+<h3 align="center">
+
+**Quyển đồ án tốt nghiệp của Phong nè 📕 - nhớ trình bày giống hình nha**
+</h3>
 
 ## [**The council**](#the-council)
 
